@@ -2,5 +2,5 @@
 ## My vimrc 2019
 
 ```
-~./vimrc
+~/.vimrc
 ```
