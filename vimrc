@@ -53,6 +53,7 @@ set nocompatible
 
 "显示行号, 或set number
 set nu
+set relativenumber
 
 "历史命令保存行数 
 set history=100
